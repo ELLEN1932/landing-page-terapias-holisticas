@@ -1,1 +1,1 @@
-# landing-page-terapias-holisticas
+Projeto concluido de landing page de terapias holisticas
